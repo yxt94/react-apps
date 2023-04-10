@@ -1,0 +1,6 @@
+.rewardDetails {
+  margin: 2rem;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 2px solid #000000;
+}

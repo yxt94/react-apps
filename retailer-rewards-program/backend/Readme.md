@@ -1,0 +1,1 @@
+To run backend `npm install` and then `npm start`
